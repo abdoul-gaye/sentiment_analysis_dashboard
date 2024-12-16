@@ -1,4 +1,4 @@
-# Louvre Museum Sentiment Analysis Dashboard
+# Paris Louvre Museum - Sentiment Analysis Dashboard
 
 This project showcases a **Power BI dashboard** analyzing customer reviews for the Louvre Museum. The dashboard provides insights into the sentiment of the reviews, distribution of review sources, and key trends.
 
@@ -8,7 +8,7 @@ This project showcases a **Power BI dashboard** analyzing customer reviews for t
 
 ### Sentiment Analysis Dashboard
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](sentiment_analysis_preview.png)
 
 ### Key Metrics:
 - **Total Reviews**: 237
