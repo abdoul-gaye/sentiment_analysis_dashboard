@@ -14,7 +14,8 @@ The **sentiment analysis** helps identify what visitors love about the museum an
 
 ## 📊 **Dashboard Overview**
 
-### Sentiment Analysis Dashboard
+### 1. [Sentiment Analysis Dashboard](https://github.com/abdoul-gaye/sentiment_analysis_dashboard.git)
+
 
 ![Dashboard Screenshot](sentiment_analysis_preview.png)
 
