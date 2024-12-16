@@ -4,6 +4,14 @@ This project showcases a **Power BI dashboard** analyzing customer reviews for t
 
 ---
 
+## 📝 **Project Description**
+
+This project aims to provide a comprehensive analysis of visitor feedback for the Louvre Museum using Power BI. By aggregating reviews from various sources such as Google, GetYourGuide, and Klook, the dashboard offers insights into visitor satisfaction, common themes, and areas of improvement.
+
+The **sentiment analysis** helps identify what visitors love about the museum and any recurring issues. This information can assist museum management in improving visitor experiences and optimizing operations, such as wait times, reservation systems, and exhibit planning.
+
+---
+
 ## 📊 **Dashboard Overview**
 
 ### Sentiment Analysis Dashboard
@@ -76,34 +84,12 @@ The dataset includes:
 
 ---
 
-## 📝 **Project Description**
-
-This project aims to provide a comprehensive analysis of visitor feedback for the Louvre Museum using Power BI. By aggregating reviews from various sources such as Google, GetYourGuide, and Klook, the dashboard offers insights into visitor satisfaction, common themes, and areas of improvement.
-
-The **sentiment analysis** helps identify what visitors love about the museum and any recurring issues. This information can assist museum management in improving visitor experiences and optimizing operations, such as wait times, reservation systems, and exhibit planning.
-
----
-
 ## 🛠️ **Tools Used**
 
 - **Power BI**: For dashboard creation and data visualization.
 - **Excel**: For storing and preparing the dataset.
 - **DAX**: For calculations in Power BI.
 
----
-
-## 📥 **How to Use**
-
-1. **Download the Power BI File**: [louvre_sentiment_dashboard.pbix](louvre_sentiment_dashboard.pbix)
-2. **Open in Power BI Desktop**.
-3. **Load the Dataset**: Ensure the dataset (`louvre_reviews_sample.xlsx`) is in the same directory.
-4. **Explore the Dashboard**.
-
----
-
-## 🤝 **Collaboration**
-
-Feel free to fork this repository, create pull requests, or reach out if you'd like to collaborate on similar projects.
 
 ---
 
@@ -112,6 +98,4 @@ Feel free to fork this repository, create pull requests, or reach out if you'd l
 - **LinkedIn**: [Your LinkedIn Profile](#)
 - **Email**: [Your Email](mailto:youremail@example.com)
 
----
 
-**Happy Analyzing! 📈**
