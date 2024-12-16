@@ -71,8 +71,6 @@ The dataset includes:
 - **Review Source** (e.g., Google)
 - **Sentiment Analysis** (Positive, Neutral, Negative)
 
-**Dataset File**: [louvre_reviews_sample.xlsx](louvre_reviews_sample.xlsx)
-
 ---
 
 ## 🚀 **Features**
